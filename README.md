@@ -5,9 +5,13 @@
 ## 📌 Problem Overview
 
 Problem Name: ________________________________
+
 Platform & Link: ______________________________
+
 Difficulty: Easy / Medium / Hard
-Date Solved: ____________  
+
+Date Solved: ____________
+
 Revisited On: ____________
 
 ## 🧠 Pattern Identification
