@@ -1,6 +1,6 @@
 # CRACK-INTERNSHIP-CRACK-PLACEMENT
 
-# DSA PROBLEM NOTES (Printable)
+# DSA PROBLEM NOTES 
 
 ## 📌 Problem Overview
 
